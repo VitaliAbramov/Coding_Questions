@@ -14,4 +14,6 @@ console.log(maxProfit(stockPrices));
 ```
 
 Notes:
-- You can't sell a stock before you buy it. 
+- You can't sell a stock before you buy it.
+
+### Solution [here](./maxProfit.js)
