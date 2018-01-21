@@ -8,9 +8,9 @@ function maxProfit(stockPrices) {
     // Your Code Here
 }
 
-var stockPrices = [10, 7, 5, 8, 11, 9];
+var stockPrices = [10, 11, 9, 8, 15, 1, 9];
 console.log(maxProfit(stockPrices)); 
-// will print 6 (buy for 5 and sell for 11)
+// will print 8 (buy for 1 and sell for 9)
 ```
 
 Notes:
