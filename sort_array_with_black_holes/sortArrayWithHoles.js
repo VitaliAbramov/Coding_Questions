@@ -6,7 +6,7 @@ function sortArrayWithHoles(a) {
             b.push(a[i]);
         }
     }
-    b.sort(function(a, b){return a-b})
+    b.sort(function(a, b){return a-b});
     for (var i = 0; i < a.length; i++){
         if (a[i] != -1){
             a[i] = b[index];
