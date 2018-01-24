@@ -14,3 +14,4 @@ console.log(isHalfEqual(n));
 ### Notes:
 - Input a is positive integer with an even number of digits.
 - Input 10 ≤ n < 1,000,000.
+### Solution [here](./isHalfEqual.js)

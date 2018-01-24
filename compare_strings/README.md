@@ -13,3 +13,4 @@ console.log(compareStrings(s1, s2));
 ### Notes:
 - Input strings s1 and s1 consisting of lowercase latin letters a-z. 
 - Input s1  1 ≤ s1.length ≤ 15 AND input for s2 is 1 ≤ s2.length ≤ 15
+### Solution [here](./compareStrings.js)

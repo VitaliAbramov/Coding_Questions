@@ -15,3 +15,4 @@ var a = [4, 3, 6, 1, 5, 2, 6, 4]
 console.log(firstMinimalIndex(a));
 // the output should be 6 (6 is the duplicate number for which the second occurrence has the minimal index)
 ```
+### Solution [here](./firstMinimalIndex.js)
