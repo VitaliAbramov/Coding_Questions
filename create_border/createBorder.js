@@ -1,8 +1,8 @@
-function addBorder(picture) {
+function createBorder(picture) {
     var arr = [];
-    var str = '*';
+    var str = '-';
     for (var i = 0; i < picture.length; i++){
-        arr.push('*' + picture[i] + '*');
+        arr.push('-' + picture[i] + '-');
     }
     str = str.repeat(arr[0].length);
     arr.push(str);
