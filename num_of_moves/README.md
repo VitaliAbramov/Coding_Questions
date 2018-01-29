@@ -9,12 +9,11 @@ Input/Output
 -105 ≤ inputArray[i] ≤ 105.
 
 ```sh
-function similarArrays(a, b) {
+function arrayChange(a) {
     //code here
 }
 
-var a = [1,2,3];
-vae b = [2,3,1];
-console.log(similarArrays(a, b));
-// the output should be true, swaping one time between 2 and 1 gives similar arrays.
+var a = [1,1,1];
+console.log(arrayChange(a));
+// the output should be 3 moves to stricley increasing array
 ```
