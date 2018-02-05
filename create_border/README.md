@@ -18,3 +18,4 @@ var picture = ["abc","ded"];
 console.log(createBorder(picture));
 // the output should be ["-----","-abc-","-ded-","------"]
 ```
+### Solution [here](./createBorder.js)

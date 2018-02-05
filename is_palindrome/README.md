@@ -21,3 +21,4 @@ var inputString = 'abbcbba'
 console.log(isPalindrome(inputString));
 // the output should be true if we will rearrange the string give 'abbcabb' is palindrome.
 ```
+### Solution [here](./isPalindrome.js)

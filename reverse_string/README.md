@@ -21,3 +21,4 @@ var s = "a(bcdefghijkl(mno)p)q";
 console.log(reverseStringParentheses(s));
 // the output should be "apmnolkjihgfedcbq"
 ```
+### Solution [here](./reverseStringParentheses.js)

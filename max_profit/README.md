@@ -1,4 +1,4 @@
-# Max Profit
+### Solution [here](./maxProfit.js)# Max Profit
 You should find the biggest profit from given array.
 Every index in the array represents an hour in a day, and every value in the array represents a stock price. 
 The program should return the maximum profit available in the array.
