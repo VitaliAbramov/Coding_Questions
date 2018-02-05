@@ -17,4 +17,4 @@ var a = [1,1,1];
 console.log(arrayChange(a));
 // the output should be 3 moves to stricley increasing array
 ```
-### Solution [here](./arrayNumOfChanges.js)
+### Solution [here](./arrayNumOfChange.js)

@@ -30,3 +30,4 @@ vae b = [2,3,1];
 console.log(similarArrays(a, b));
 // the output should be true, swaping one time between 2 and 1 gives similar arrays.
 ```
+### Solution [here](./similarArrays.js)
